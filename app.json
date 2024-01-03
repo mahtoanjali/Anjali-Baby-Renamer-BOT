@@ -1,9 +1,9 @@
 {
     "name": "LazyDeveloper Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://telegra.ph/file/e01b2016af8ab7b7616dc.png",
+    "logo": "https://te.legra.ph/file/471ef129b9c1b479676fd.jpg",
     "keywords": ["LazyDeveloper Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT",
+    "repository": "https://github.com/mahtoanjali/Anjali-Baby-Renamer-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -36,7 +36,7 @@
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from @HK_telegraph_BOT",
+            "description": "Your Bot start cmd Pic from @QUEENx_GOD",
             "value": "",
             "required": false
         }
