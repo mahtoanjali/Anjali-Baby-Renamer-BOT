@@ -26,7 +26,7 @@ License Link : https://github.com/mahtoanjali/Anjali-Baby-Renamer-BOTT/blob/main
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
+╭━━━━❰ Anjali Gangster Hacking... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
